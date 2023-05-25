@@ -44,6 +44,7 @@ To run the Chatbot locally, follow these steps:
 
 Here's an example conversation with the Chatbot:
 
+<img width="737" alt="Screenshot 2023-05-25 233648" src="https://github.com/Aravinda89/joker_chatbot/assets/31471559/a007cf9d-65bd-4240-a297-ad3cf2d3d93c">
 
 
 ## Contributing
