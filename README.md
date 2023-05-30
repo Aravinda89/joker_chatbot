@@ -2,6 +2,9 @@
 
 Joker Chatbot is an AI-powered conversational agent inspired by the character Joker from "The Dark Knight." It utilizes the ChatGPT API developed by OpenAI to provide engaging and interactive conversations.
 
+![00060-3587458435](https://github.com/Aravinda89/joker_chatbot/assets/31471559/cc30f23a-6d42-4f27-aa3b-d548bb871c28)
+
+
 ## Features
 
 - Interactive chat-based interface
